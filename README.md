@@ -6,7 +6,6 @@ This is the first file in this repo.
 
 A bunch
 of Text 
-here modified
 
 
 MORE IPSUM
